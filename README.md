@@ -2,7 +2,7 @@
 
 A comparison on CIFAR-10 between a small convolutional network trained from scratch and an ImageNet-pretrained ViT-Tiny fine-tuned with `timm`, in PyTorch.
 
-**Case study:** [Read it](https://laiba-khawar-portfolio.vercel.app/work/cnn-vs-vit)
+**Case study:** [Read it](https://www.laibakhawar.com/work/cnn-vs-vit)
 
 ## How it works
 
@@ -62,4 +62,4 @@ Cell 4 ends with `classes = trainset.classes`, but the dataset variable is named
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
